@@ -4,4 +4,4 @@ Datasets shown here are purely examples copy/pasted from Wikipedia with small mo
 ## Example Completions
 
 ### Olympics
-![image](https://github.com/QuixThe2nd/ProntoLM/assets/25378634/f641e5f0-1571-44ce-9367-c3479523e618)
+![image](https://github.com/QuixThe2nd/ProntoLM/assets/25378634/c6a47a39-1d78-45ad-ab2f-201807c31e97)
