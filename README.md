@@ -57,6 +57,10 @@ To enhance the contextual understanding of generated completions, ProntoLM could
 
 Another planned improvement is the implementation of parallel generation in ProntoLM. Parallel generation involves generating multiple completions simultaneously, providing users with a range of options or alternative suggestions. By adopting parallel generation, ProntoLM can offer more diverse and varied completions, catering to different user preferences and needs. Feedback provided by the user on which completion is better will be used to improve the dataset.
 
+### Punctuation/Special Characters
+
+The AI can currently only handle alphanumeric characters, this is a severe limitation as it is unable to define sentence starts/endings or add proper punctation. ProntoLM is also unable to share website URLs even if they are explicitly defined in the dataset.
+
 ## Creating a Dataset
 
 You can create a dataset by simply copying text from website's such as wikipedia. The smaller the dataset is, the more likely it is that ProntoLM will hallucinate completions.
