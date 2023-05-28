@@ -264,11 +264,11 @@ after the 2022 winter olympics in beijing, 68 of the current 206 national olympi
 tejbir bura was the first and only nepalese person to receive an olympic gold medal. during the 1924 winter olympic closing ceremony, the ioc awarded a gold medal in alpinism for the 1922 british mount everest expedition, which recognized 21 mountaineers, including the first athletes to be awarded medals posthumously, seven indian sherpas who were killed in an avalanche on the third and last attempt to summit.
 defunct historical nocs with medals
 a total of 10 defunct historical nocs have earned at least one medal.
-totals 24 710 657 624 1991 19 138 125 128 391 43 848 782 752 2382
+totals
 special delegations with medals
 a total of 8 special delegations have earned at least one medal. medal totals in this table are current through the 2022 winter olympics in beijing, people's republic of china, and all changes in medal standings due to doping cases and medal redistributions up to 20 february are taken into account.
-roc (roc) [roc] 1 20 28 23 71 1 6 12 14 34 2 26 40 37 105
-totals 10 80 77 68 225 3 17 24 31 74 13 97 101 99 299
+roc (roc) [roc]
+totals
 the following is the overall medal tally (top ten nations) with the records of current nocs combined with those of their precursors (sorted by gold, then silver, then bronze), through 2022.
 summer olympics (including precursors)
 current nocs combined with records of precursor nocs:
@@ -276,68 +276,14 @@ no. nation gold silver bronze total
 incl. russian empire (ru1),
 soviet union (urs), unified team (eun),
 russian olympic committee (roc)
-610 514 503 1627
 incl. united team of germany (eua),
 west germany (frg), east germany (gdr)
-438 457 491 1386
 summer olympics (excluding precursors)
 separate current and precursor nocs (records not combined):
 winter olympics (including precursors)
-162 155 118 435
 incl. soviet union (urs), unified team (eun),
 olympics athletes from russia (oar),
-142 120 125 387
 winter olympics (excluding precursors)
-total, all olympics (including precursors)
-752 632 628 2014
-600 612 609 1821
-total, all olympics (excluding precursors)
-summer olympics (1896–2020)
-rank noc gold silver bronze total
-uruguay (uru) 2 2 6 10
-ivory coast (civ) 1 1 2 4
-syria (syr) 1 1 2 4
-tajikistan (tjk) 1 1 2 4
-jordan (jor) 1 1 1 3
-independent olympic athletes (ioa)* 1 0 1 2
-mozambique (moz) 1 0 1 2
-suriname (sur) 1 0 1 2
-united arab emirates (uae) 1 0 1 2
-lebanon (lib) 0 2 2 4
-saudi arabia (ksa) 0 2 2 4
-tanzania (tan) 0 2 0 2
-san marino (smr) 0 1 2 3
-haiti (hai) 0 1 1 2
-niger (nig) 0 1 1 2
-north macedonia (mkd) 0 1 1 2
-zambia (zam) 0 1 1 2
-gabon (gab) 0 1 0 1
-guatemala (gua) 0 1 0 1
-montenegro (mne) 0 1 0 1
-netherlands antilles (aho)* 0 1 0 1
-paraguay (par) 0 1 0 1
-samoa (sam) 0 1 0 1
-senegal (sen) 0 1 0 1
-sudan (sud) 0 1 0 1
-tonga (tga) 0 1 0 1
-turkmenistan (tkm) 0 1 0 1
-virgin islands (isv) 0 1 0 1
-british west indies (bwi)* 0 0 2 2
-burkina faso (bur) 0 0 1 1
-djibouti (dji) 0 0 1 1
-eritrea (eri) 0 0 1 1
-guyana (guy) 0 0 1 1
-iraq (irq) 0 0 1 1
-mauritius (mri) 0 0 1 1
-togo (tog) 0 0 1 1
-totals (154 entries) 5461 5427 5893 16781
-winter olympics (1924–2022)
-liechtenstein (lie) 2 2 6 10
-totals (47 entries) 1171 1169 1159 3499
-combined total (1896–2022)
-puerto rico (pur) 2 2 6 10
-totals (156 entries) 6633 6594 7053 20280
-summer
 olympic rings without rims.svg summer olympics medal table leaders by year
 number of occurrences
 rank country number of games
@@ -366,20 +312,20 @@ date team
 medal counts:
 status after the 2022 winter olympics
 summer games winter games combined total
-australasia (anz) 2 3 4 5 12 0 0 0 0 0 2 3 4 5 12
-australia (aus) 27 164 173 210 547 20 6 7 6 19 47 170 180 216 566
-new zealand (nzl) 24 53 33 51 137 17 2 2 2 6 41 55 35 53 143
-total 29 220 210 266 696 20 8 9 8 25 49 228 219 274 721
+australasia (anz)
+australia (aus)
+new zealand (nzl)
+total
 british west indies
 the west indies federation, also known as the west indies, the federation of the west indies or the west indian federation, was a short-lived political union that existed fro t. various islands in the caribbean that were part of the british empire, including trinidad and tobago, barbados, jamaica, and those on the leeward and windward islands, came together to form the federation.the expressed intention of the federation was to create a political unit that would become independent from britain as a single state before that could happen, the federation collapsed due to internal political conflicts over how it would be governed or function viably.
 athletes from the west indies federation competed under the name antilles (ant), renamed to british west indies (bwi) by the ioc, at the 1960 summer olympics in rome, italy. thirteen competitors—two from barbados, four from trinidad, and seven from jamaica—all men, took part in thirteen events in five sports. the short-lived nation only participated at these single games, as jamaica and trinidad and tobago competed independently again in 1964, and barbados started competing at the 1968 games.
 1948–
 1968– barbados (bar)
-british west indies (bwi) 1 0 0 2 2 0 0 0 0 0 1 0 0 2 2
-jamaica (jam) 18 26 36 25 87 9 0 0 0 0 27 26 36 25 87
-trinidad and tobago (tto) 18 3 5 11 19 4 0 0 0 0 22 3 5 11 19
-barbados (bar) 13 0 0 1 1 0 0 0 0 0 13 0 0 1 1
-total 18 29 41 39 109 9 0 0 0 0 27 29 41 39 109
+british west indies (bwi)
+jamaica (jam)
+trinidad and tobago (tto)
+barbados (bar)
+total
 czechoslovakia
 czechoslovakia first participated at the olympic games in 1920, after having competed as bohemia fro. the nation sent athletes to compete in every summer olympic games since then, except for the 1984 games when they were part of the soviet-led boycott of the 1984 summer olympics.czechoslovakia has participated in every winter olympic games since the inaugural games of 1924.
 after the dissolution of czechoslovakia in 1993, the czech republic and slovakia sent independent teams to the olympics starting in 1994.
@@ -387,11 +333,11 @@ after the dissolution of czechoslovakia in 1993, the czech republic and slovakia
 1920–
 1996– czech republic (cze) slovakia (svk)
 status after the 2022 olympics
-bohemia (boh) 3 0 1 3 4 0 0 0 0 0 3 0 1 3 4
-czechoslovakia (tch) 16 49 49 45 143 16 2 8 15 25 32 51 57 60 168
-czech republic (cze) 7 19 21 27 67 8 10 11 12 33 15 29 32 39 100
-slovakia (svk) 7 10 14 8 32 8 4 4 2 10 15 14 18 10 42
-total 26 78 85 83 246 24 16 23 29 68 50 94 108 112 314
+bohemia (boh)
+czechoslovakia (tch)
+czech republic (cze)
+slovakia (svk)
+total
 germany has competed under five different designations, including as two separate teams at several games. sources vary in how they present the medals won by these teams. the table below shows sourced combinations of these teams, when applied to the updated medal totals from the main table. a part of germany, saar, competed independently in the summer olympic games in 1952, but failed to win any medals. due to most lists only listing medal counts, it's possible but not certain saar was included as part of germany in their calculations. germany was denied participation on three occasions (1920, 1924, and 1948).
 1896–1912 german empire germany (ger)
 1920–1924 denied participation
@@ -400,18 +346,18 @@ germany has competed under five different designations, including as two separat
 1956–
 1968–
 1992– germany (ger)
-germany (ger) 17 201 207 247 655 13 104 98 65 267 30 305 305 312 922
-saar (saa) 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0
-united team of germany (eua) 3 28 54 36 118 3 8 6 5 19 6 36 60 41 137
-east germany (gdr) 5 153 129 127 409 6 39 36 35 110 11 192 165 162 519
-west germany (frg) 5 56 67 81 204 6 11 15 13 39 11 67 82 94 243
-total 26 438 457 491 1386 22 162 155 118 435 48 600 612 609 1821
+germany (ger)
+saar (saa)
+united team of germany (eua)
+east germany (gdr)
+west germany (frg)
+total
 kuwait
 at the 2016 summer olympics nine athletes from kuwait competed as independent olympic athletes (ioa), as the kuwait olympic committee had been suspended by the international olympic committee (ioc) for the second time in five years due to governmental interference. although not allowed to compete as a sovereign state at the 2016 summer olympics, the nation's participants were able to compete as independent olympic athletes under the olympic flag. at those games, kuwaiti shooters fehaid al-deehani and abdullah al-rashidi won a gold medal and bronze medal respectively as independent athletes.
 1968–
 2020– kuwait (kuw)
-independent olympic athletes (ioa) (2016) 1 1 0 1 2 0 0 0 0 0 1 1 0 1 2
-total 14 1 0 4 5 0 0 0 0 0 14 1 0 4 5
+independent olympic athletes (ioa) (2016)
+total
 netherlands antilles
 the netherlands antilles participated at the olympic games fro as a constituent country of the kingdom of the netherlands. the national olympic committee for the netherlands antilles was created in 1931 and recognized by the international olympic committee fro upon the dissolution of the netherlands antilles.
 aruba left the netherlands antilles in 1986 to become a constituent country within the kingdom of the netherlands. betwee, aruban athletes competed as part of the netherlands antilles. since the olympic games in 1988, athletes from aruba have competed separately under their own olympic banner and have participated in each summer olympic games since then.
@@ -422,20 +368,20 @@ after the dissolution of the netherlands antilles in 2010, bonaire, sint eustati
 2012 as part of netherlands /
 independent olympic athletes (ioa) (2012)
 2014– netherlands (ned)
-netherlands (ned) 27 95 105 122 322 22 53 49 45 147 49 148 154 167 469
-netherlands antilles (aho) 13 0 1 0 1 2 0 0 0 0 15 0 1 0 1
-aruba (aru) 9 0 0 0 0 0 0 0 0 0 9 0 0 0 0
-independent olympic athletes (ioa) (2012) 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0
-total 27 95 106 122 323 22 53 49 45 147 49 148 155 167 470
+netherlands (ned)
+netherlands antilles (aho)
+aruba (aru)
+independent olympic athletes (ioa) (2012)
+total
 republic of china
 the republic of china (roc) participated in its first summer olympics in 1932 under the name of china. after the chinese civil war, the roc retreated to the island of taiwan in 1949, and only taiwan-based athletes have competed on its behalf since then. in 1971, the roc was expelled from the united nations, but was permitted to compete under its official name, flag, and anthem in the 1972 winter, 1972 summer, and 1976 winter olympics. it was denied official representation in the 1976 summer olympics and boycotted it as a result. the 1979 nagoya resolution allowed the roc to compete under the deliberately-ambiguous name "chinese taipei"; it protested against this decision and boycotted the 1980 summer olympics as well, but has competed under this name since the 1984 winter olympics.
 the republic of china took part in the opening ceremony of the 1924 summer olympics, but its four athletes, all of whom were tennis players, withdrew from competition.
 1924–
 1956– chinese taipei (tpe)
-republic of china (roc) 3 0 0 0 0 0 0 0 0 0 3 0 0 0 0
-china (chn) 11 262 199 173 634 12 22 32 23 77 23 284 231 196 711
-chinese taipei (tpe) 15 7 11 18 36 13 0 0 0 0 28 7 11 18 36
-total 19 269 210 191 670 14 22 32 23 77 33 291 242 214 747
+republic of china (roc)
+china (chn)
+chinese taipei (tpe)
+total
 russia and the soviet union
 the russian federation, the russian empire, the olympic athletes from russia and the russian olympic committee (roc) are sometimes combined outside of ioc sources. the soviet union is often combined with the post-union team that competed in 1992. some sources combine the soviet union and russia, despite the fact that many republics which subsequently gained or re-gained independence (armenia, azerbaijan, belarus, estonia, georgia, kazakhstan, kyrgyzstan, latvia, lithuania, moldova, tajikistan, turkmenistan, ukraine and uzbekistan) contributed to the medal tally of the ussr, and there are sources that combine all medals of ru1, urs, eun, oar, roc and rus. o, the united nations recognized, without objection, russia as legal successor of the rights and obligations of the former soviet union, but this has no significance in medal tallies.
 1900–
@@ -444,15 +390,15 @@ the russian federation, the russian empire, the olympic athletes from russia and
 1996–
 2020–
 russia combined with precursors
-russia (rus) 6 149 125 152 426 6 47 39 35 121 12 196 164 187 547
-russian empire (ru1) 3 1 4 3 8 0 0 0 0 0 3 1 4 3 8
-soviet union (urs) 9 395 319 296 1010 9 78 57 59 194 18 473 376 355 1204
-unified team (eun) 1 45 38 29 112 1 9 6 8 23 2 54 44 37 135
-olympic athletes from russia (oar) 0 0 0 0 0 1 2 6 9 17 1 2 6 9 17
-russian olympic committee (roc) 1 20 28 23 71 1 6 12 14 32 2 26 40 37 103
-total 20 610 514 503 1627 18 142 120 125 387 38 752 634 628 2014
+russia (rus)
+russian empire (ru1)
+soviet union (urs)
+unified team (eun)
+olympic athletes from russia (oar)
+russian olympic committee (roc)
+total
 post-soviet states (except russia)
-total 13 113 162 265 540 12 18 17 21 56 25 131 179 286 596
+total
 yugoslavia
 teams from yugoslavia first participated at the olympic games in 1920. yugoslavia has been the designation for olympic teams from three distinct national entities:
 kingdom of yugoslavia (officially called the kingdom of serbs, croats and slovenes until 1929) from 1920–1936
@@ -471,17 +417,17 @@ two of the successor nations (croatia and slovenia) began to compete as independ
 serbia and montenegro (scg)
 2008–
 2016– serbia (srb) kosovo (kos)
-serbia (srb) (1912, 2008–current) 5 6 7 11 24 5 0 0 0 0 10 6 7 11 24
-yugoslavia (yug) (1920–1992 w) 16 26 29 28 83 14 0 3 1 4 30 26 32 29 87
-independent olympic participants (iop) (1992 s) 1 0 1 2 3 0 0 0 0 0 1 0 1 2 3
-serbia and montenegro (scg) (1996–2006) 3 2 4 3 9 3 0 0 0 0 6 2 4 3 9
-croatia (cro) (1992–current) 8 14 13 14 41 9 4 6 1 11 17 18 19 15 52
-slovenia (slo) (1992–current) 8 8 9 11 28 9 4 8 12 24 17 12 17 23 52
-bosnia and herzegovina (bih) (1992 s –current) 8 0 0 0 0 8 0 0 0 0 16 0 0 0 0
-north macedonia (mkd) (1996–current) 7 0 1 1 2 7 0 0 0 0 14 0 1 1 2
-montenegro (mne) (2008–current) 4 0 1 0 1 4 0 0 0 0 8 0 1 0 1
-kosovo (kos) (2016–current) 2 3 0 0 3 2 0 0 0 0 4 3 0 0 3
-total 25 59 65 70 194 22 8 17 14 39 47 67 82 84 233
+serbia (srb) (1912, 2008–current)
+yugoslavia (yug) (1920–1992 w)
+independent olympic participants (iop) (1992 s)
+serbia and montenegro (scg) (1996–2006)
+croatia (cro) (1992–current)
+slovenia (slo) (1992–current)
+bosnia and herzegovina (bih) (1992 s –current)
+north macedonia (mkd) (1996–current)
+montenegro (mne) (2008–current)
+kosovo (kos) (2016–current)
+total
 others
 in addition to the teams of independent olympians at the olympic games mentioned above—kuwait, russia, the former netherlands antilles, and the former yugoslavia—several other nocs were represented by independent olympic athletes. east timor's team in 2000 consisted of four athletes competing as individual olympic athletes. in 2012, one independent olympic athlete represented south sudan. in the 2014 winter olympics, the team from india included one independent olympic participant.
 obsolete nations notes
@@ -672,9 +618,9 @@ two presidents of the international olympic committee have also been among the e
 britain's john copley, winner of a silver medal in the 1948 engravings and etchings competition, was 73 years of age, making him the oldest olympic medallist in history. the oldest olympic medallist outside the art competitions is swedish shooter oscar swahn, who won his last medal at age 72.
 main article: list of olympic medalists in art competitions
 rank nation gold silver bronze total
-ireland (irl) 0 1 2 3
-south africa (rsa) 0 1 1 2
-totals (23 entries) 45 53 49 147
+ireland (irl)
+south africa (rsa)
+totals (23 entries)
 stockholm 1912 (5)
 antwerp 1920 (5)
 paris 1924 (5)
@@ -717,396 +663,396 @@ similarly, there are also regional multi-sport events held that purely cater to 
 on a sub-continental and regional level, the central asian games, the east asian games, the south asian games and the southeast asian games cater to central asia, east asia, south asia and southeast asia respectively, which are all regions of the asian continent. the various regions of the americas are catered for by the south american games, the central american and caribbean games and the central american games. the games of the small states of europe caters for the various island nations and micronations around europe, while europe provides the majority of competitors in the mediterranean games.
 the criteria in listing a multi-sport event is as follows: the event should have received significant media coverage where it is covered; national, regional, or international. at the same time, organization of the event is taken charge by a formal body, with at least one sport in the event sanctioned by an international sports federation that is recognized by the international olympic committee or the general association of international sports federations (gaisf).
 title est.1 next/ last2 rec.3 location4 scope elem.5 notes
-aau junior olympic games 1967 2023, des moines national age
+aau junior olympic games, des moines national age
 academic olympia 1909
-afro-asian games 2003 2003
-alba games 2005 2011
-african games 1965 2023, accra regional
-african beach games 2019 2023, tunis regional
+afro-asian games
+alba games
+african games, accra regional
+african beach games, tunis regional
 african francophone games for the handicapped 1994
 african martial arts games
 africa military games 2002
-african para games 2023 2023, accra regional
-african youth games 2010 2022, cairo regional age
+african para games, accra regional
+african youth games, cairo regional age
 agbu games 1955
 agbu european games 2002
 agbu south american games 2002
-alice springs masters games 1986 2023, alice springs national age
-all-africa university games 1975 2024, lagos regional school
+alice springs masters games, alice springs national age
+all-africa university games, lagos regional school
 all-china games 2000
-alps-adriatic summer youth games 1984 2016
-alps-adriatic winter youth games 1982 2011
+alps-adriatic summer youth games
+alps-adriatic winter youth games
 arab school games 1949
 arab university games
 arab university games for beach sports 2016
-arafura games 1991 2023, darwin international
-arctic winter games 1970 2022 (2023 hold), wood buffalo regional
+arafura games, darwin international
+arctic winter games (2023 hold), wood buffalo regional
 armenian students sports games 2002
-arnold sports festival 1984 2023, columbus international
-asean autism games 2012 2020
+arnold sports festival, columbus international
+asean autism games
 asean civil servant games 2015
-asean deaf games 2022 2022, kuala lumpur regional disabled
-asean para games 2001 2023, phnom penh regional disabled
-asean school games 2009 2022, dumaguete regional school
-asean university games 1981 2024, surabaya regional school
+asean deaf games, kuala lumpur regional disabled
+asean para games, phnom penh regional disabled
+asean school games, dumaguete regional school
+asean university games, surabaya regional school
 asem youth games 2005
-asian beach games 2008 2020 (2023 hold), sanya regional
-asian games 1951 2022 (2023 hold), hangzhou regional
-asian indoor games 2005 2009 -martial arts games
-asian indoor-martial arts games 2013 2021 (2023 hold), bangkok-chonburi regional
-asian martial arts games 2009 2009 -martial arts games
+asian beach games (2023 hold), sanya regional
+asian games (2023 hold), hangzhou regional
+asian indoor games -martial arts games
+asian indoor-martial arts games (2023 hold), bangkok-chonburi regional
+asian martial arts games -martial arts games
 asian martial arts games(wmagc)
-asian para games 2010 2022 (2023 hold), hangzhou regional disabled
+asian para games (2023 hold), hangzhou regional disabled
 asian transplant games 2002
-asian winter games 1986 2029, trojena regional
-asian youth games 2009 2025, tashkent regional age
-asian youth para games 2009 2025, tashkent regional disabled, age
+asian winter games, trojena regional
+asian youth games, tashkent regional age
+asian youth para games, tashkent regional disabled, age
 asia pacific deaf games 1984
-asia pacific masters games 2018 2023, north jeolla regional age
+asia pacific masters games, north jeolla regional age
 asia pacific outgames 2008
-asia pacific university games 2015 2015
-asia pacific youth games 2010 2019 -eastern regional in russia.
+asia pacific university games
+asia pacific youth games -eastern regional in russia.
 asia sports festival 1998
 asian university games regional age, school
 ataturk dam international watersports games
-atlantic watersports games 1995 2022, viana do castelo regional age
+atlantic watersports games, viana do castelo regional age
 ausc region 5 youth games
 aurora games
-australasian police and emergency services games 2012 2023, rotorua international occupation hold between australia or new zealand
+australasian police and emergency services games, rotorua international occupation hold between australia or new zealand
 australasian public sector games 1998
 australia games 1985
 australia beach games
-australia deaf games 1964 2024, newcastle, lake macquarie national disabled
+australia deaf games, newcastle, lake macquarie national disabled
 australia police winter games
-australian masters games 1987 2023, adelaide international age
-australian youth olympic festival 2007 2013
-balkan games 1929 2023
+australian masters games, adelaide international age
+australian youth olympic festival
+balkan games
 baltic games (extreme sports) 2009
-baltic sea games 1993 1997
-baltic sea youth games 1999 2019
+baltic sea games
+baltic sea youth games
 bangladesh games 1978
 batang pinoy 1999
-black sea games 2007 2007
-bimp-eaga friendship games 1996 2022 -eaga.
-andina binational andean integration games 1998 2022.
-binational games of araucanía 1992 2022, tba regional age hold between chile and argentina.
-para binational games of araucanía 2022 2022, tba regional age hold between chile and argentina.
+black sea games
+bimp-eaga friendship games -eaga.
+andina binational andean integration games.
+binational games of araucanía, tba regional age hold between chile and argentina.
+para binational games of araucanía, tba regional age hold between chile and argentina.
 boleswa intervarsity games
-bolivarian games 1938 2024, ayacucho regional colonial ties
-bolivarian beach games 2012 2019
+bolivarian games, ayacucho regional colonial ties
+bolivarian beach games
 bolivarian youth games 2023, sucre regional colonial ties, age
-botswana games 2005 2023
-bridge olympiad 1960 2004
-british transplant games 1977 2023, coventry national
-jogos abertos brasileiros,(jabs) 1992 2014
-jogos escolares brasileiros,(jebs) 2005 2022, 2016 rio olympics competition venue national age brazilian student games of age 12-17
-jogos universitários brasileiros,(jubs) 1935 2022, brasília national age brazilian university games
+botswana games
+bridge olympiad
+british transplant games, coventry national
+jogos abertos brasileiros,(jabs)
+jogos escolares brasileiros,(jebs), 2016 rio olympics competition venue national age brazilian student games of age 12-17
+jogos universitários brasileiros,(jubs), brasília national age brazilian university games
 jogos universitários praia brasileiros 2011, aracati national age brazilian university beach games
-bsme games 2004 2022
-can-am police-fire games 1977 2023, butler regional occupation
-canada summer games 1969 2025 2 newfoundland and labrador st. john's, newfoundland and labrador national includes able-bodied, para sport, and special olympics events.
-canada winter games 1967 2023 -bodied, para sport, and special olympics events.
-canada deaf games 2012 2024, toronto national disabled
+bsme games
+can-am police-fire games, butler regional occupation
+canada summer games newfoundland and labrador st. john's, newfoundland and labrador national includes able-bodied, para sport, and special olympics events.
+canada winter games -bodied, para sport, and special olympics events.
+canada deaf games, toronto national disabled
 canterbury centennial games 1950
-canusa games 1958 2023, hamilton regional age
+canusa games, hamilton regional age
 caribbean games 2022
-carifta games 1972 2023, nassau regional caribbean free trade association games
+carifta games, nassau regional caribbean free trade association games
 central african games 1976
-central american and caribbean games 1926 2022 (2023 hold), san salvador regional
+central american and caribbean games (2023 hold), san salvador regional
 central american and caribbean beach games 2022, santa marta regional
 central american and caribbean junior games 2024
-central american games 1973 2025
-central american para games 2013 2018
+central american games
+central american para games
 central asian games
 central asian para games 2015
 collegiate nationals 2006
-chess olympiads 1924 2024, budapest international age
-children of asia games 1996 2024, yakutsk regional age
+chess olympiads, budapest international age
+children of asia games, yakutsk regional age
 winter children of asia games
-china national youth games 2015 2019
+china national youth games
 chinese transplant games
-cis games 2021 2023, tba regional for athletes in cis organization nations
-citizens sports games 2000 2024, pingtung county national non-olympics events
-commonwealth games 1930 2026, victoria international colonial ties, language for athletes in commonwealth nations.
-commonwealth paraplegic games 1962 1974, language, age defunct
-commonwealth winter games 1958 1966, language, age defunct
-commonwealth youth games 2000 2021 (2023 hold),tba international colonial ties, language, age
+cis games, tba regional for athletes in cis organization nations
+citizens sports games, pingtung county national non-olympics events
+commonwealth games, victoria international colonial ties, language for athletes in commonwealth nations.
+commonwealth paraplegic games, language, age defunct
+commonwealth winter games, language, age defunct
+commonwealth youth games (2023 hold),tba international colonial ties, language, age
 community games 1967
-cook islands games 2020 2022
-cook islands beach games 2018 2024
+cook islands games
+cook islands beach games
 cook islands university games
 counter olympics 1932
 country senior high schools carnival (western australia)
-world summer corporate games 1988 2022, constanța international also has regional or national events
-world winter corporate games 2019 2022, brasov international
+world summer corporate games, constanța international also has regional or national events
+world winter corporate games, brasov international
 costarican university games (juncos)
-cpisra world games 1989 2018
-cplp games 1990 2018, language
-csit world sports games 2009 2023, rome international
-cucsa games 1996 2022
-summer deaflympics 1924 2025, tokyo international disabled longest running multi-sport event excluding the olympic games.
-winter deaflympics 1949 2023, quebec city international disabled
+cpisra world games
+cplp games, language
+csit world sports games, rome international
+cucsa games
+summer deaflympics, tokyo international disabled longest running multi-sport event excluding the olympic games.
+winter deaflympics, quebec city international disabled
 deaf sports carnivals 1911
-défi sportif 1984 2023, quebec international disabled
-dod warrior games 2010 2023, canton international occupation, disabled for injured military. held by department of defense, the united states.
+défi sportif, quebec international disabled
+dod warrior games, canton international occupation, disabled for injured military. held by department of defense, the united states.
 east african community games
 east african military games 1982
 east african military community games 2005
-east african schools games 2002 2019
-eastern africa university games 1999 2022, kampala regional age
-east asian games 1993 2013. transform to east asian youth games.
-east asian youth games 2023 2023, ulaanbaatar regional age
+east african schools games
+eastern africa university games, kampala regional age
+east asian games. transform to east asian youth games.
+east asian youth games, ulaanbaatar regional age
 eastern european transplant games 1996
-egames 2016 2016
-elderly sports and fitness conference of people's republic of china 2009 2017
+egames
+elderly sports and fitness conference of people's republic of china
 esports games of the future 2023, saransk national esports
-eurogames 1992 2023, bern regional sexual orientation
-european championships (multi-sport event) 2018 2026
-european games 2015 2023, kraków regional
+eurogames, bern regional sexual orientation
+european championships (multi-sport event)
+european games, kraków regional
 european company sports games of summer 1977, bordeaux regional
 european company sports games of winter 1990, bordeaux regional
-european heart/lung transplant games] 1988 2024
-european maccabi games 1963 2023
+european heart/lung transplant games]
+european maccabi games
 european martial arts games
-european masters games 2008 2023, tampere regional age
+european masters games, tampere regional age
 european para championships 2023, rotterdam regional
 european para games regional disabled
 european para youth game tba regional age
 european para winter youth games.
-european police and fire games 2006 2020
+european police and fire games
 european sports festival 2019
-european transplant and dialysis games 2000 2024
-european universities games 2012 2024, debrecen, miskolc regional school
-european winter games (for police & firefighter & paramedics) 2019 2023, kuopio regional occupation
-european youth olympic festival 1991 2023, maribor regional age
-european youth olympic winter festival 1993 2023, friuli venezia giulia regional age
-extremity games 2006 2016
-far eastern championship games 1913 1934. precursor to the asian games.
+european transplant and dialysis games
+european universities games, debrecen, miskolc regional school
+european winter games (for police & firefighter & paramedics), kuopio regional occupation
+european youth olympic festival, maribor regional age
+european youth olympic winter festival, friuli venezia giulia regional age
+extremity games
+far eastern championship games. precursor to the asian games.
 federal youth games of olympics
 federal youth games of paralympics
-fespic games 1975 2006. merge into asian paralympic games.
-fespic youth games 2003 2003 - regional age,disabled defunct. precursor to the asian youth para games.
+fespic games. merge into asian paralympic games.
+fespic youth games - regional age,disabled defunct. precursor to the asian youth para games.
 festival of empire 1911
-fia motorsport games 2019 2022, marseille international
-ficep-fisec games 1987 2022, klagenfurt international age,religion
+fia motorsport games, marseille international
+ficep-fisec games, klagenfurt international age,religion
 fiji games
-fisu america games 2018 2022, mérida regional age merge with south american university games.
-fisu world university summer games(summer universiade) 1959 2023, chengdu international age
-fisu world university winter games(winter universiade) 1960 2023, lake placid international age
-friendship games 1984 1984 - international defunct. for athletes who did not participate in the 1984 summer olympics.
+fisu america games, mérida regional age merge with south american university games.
+fisu world university summer games(summer universiade), chengdu international age
+fisu world university winter games(winter universiade), lake placid international age
+friendship games - international defunct. for athletes who did not participate in the 1984 summer olympics.
 friendship military spartakiads of summer 1958
 friendship military spartakiads of winter 1961
 fsm games,(federated states of micronesia games) 1995
-games of the new emerging forces (ganefo) 1963 1963. set up by indonesia as a counter to the olympic games, with participation meant for so-called "emerging nations".
-asian games of the new emerging forces (asian ganefo) 1966 1966. for antiboycott of 1966 asian games.
-games of the small states of europe 1985 2023, valletta regional population size
+games of the new emerging forces (ganefo). set up by indonesia as a counter to the olympic games, with participation meant for so-called "emerging nations".
+asian games of the new emerging forces (asian ganefo). for antiboycott of 1966 asian games.
+games of the small states of europe, valletta regional population size
 gascoyne games 1994, carnarvon regional for the west australia intra-regional, ceased in 2015, but 2021 revive
-gay games 1982 2022 (2023 hold)
-gcc games 2011 2026, doha reginoal persian gulf regional nationals multi-sport event
-gcc beach games 2010 2025 - oman, tba reginoal persian gulf regional nationals multi-sport event
+gay games (2023 hold)
+gcc games, doha reginoal persian gulf regional nationals multi-sport event
+gcc beach games - oman, tba reginoal persian gulf regional nationals multi-sport event
 gcc women's games -sport event
-gcc youth games 2023 2023, tba reginoal age persian gulf regional nationals multi-sport event
-gcc martial arts and indoor games 2024 2024, tba reginoal age persian gulf regional nationals multi-sport event
+gcc youth games, tba reginoal age persian gulf regional nationals multi-sport event
+gcc martial arts and indoor games, tba reginoal age persian gulf regional nationals multi-sport event
 georgian universiade
 german combat games 1922
-global esports games 2021 2022, istanbul international organized by global esports federation, different from international esports federation.
-summer goodwill games 1986 2001. reaction to the political troubles surrounding the olympic games in the 1980s.
-winter goodwill games 2000 2000
+global esports games, istanbul international organized by global esports federation, different from international esports federation.
+summer goodwill games. reaction to the political troubles surrounding the olympic games in the 1980s.
+winter goodwill games
 gorge games 1996
 winter gorge games 2009
-gratitude games 2023 2023, manchester, salford national occupation for workers in the uk's nhs, police, fire service and other emergency services.
+gratitude games, manchester, salford national occupation for workers in the uk's nhs, police, fire service and other emergency services.
 summer gravity games 1999. for extreme sport games
 winter gravity games 2000. for extreme sport games
 gravity games h2o 2005
 hapoel games 1928
-highland games 1836 2022, somewhere national hold in scotland and other countries with a large scottish diaspora
-hong kong games 2007 2023
-huntsman world senior games 1987 2023, st. george, utah international age
-ibsa world games 1998 2023, birmingham international disabled
+highland games, somewhere national hold in scotland and other countries with a large scottish diaspora
+hong kong games
+huntsman world senior games, st. george, utah international age
+ibsa world games, birmingham international disabled
 ibsa world youth games 2005,age
-iceland winter games 2014 2022
-indian ocean island games 1979 2023, antananarivo regional
+iceland winter games
+indian ocean island games, antananarivo regional
 indian ocean youth and sport commission games 1994
 indian rim asian university games 2007
-indigenous nationals 1996 2023, melbourne, monash university national ethnicity for indigenous australians with qualification in australian university or tertiary institutions.
-inter-allied games 1919 1919 - regional defunct
-international army games 2015 2023, moscow international occupation
-international children's games 1968 2023, daegu international age
-international children's winter games 1994 2023, pyeongchang international age
-invictus games 2014 2023, düsseldorf international occupation for wounded, injured military.
+indigenous nationals, melbourne, monash university national ethnicity for indigenous australians with qualification in australian university or tertiary institutions.
+inter-allied games - regional defunct
+international army games, moscow international occupation
+international children's games, daegu international age
+international children's winter games, pyeongchang international age
+invictus games, düsseldorf international occupation for wounded, injured military.
 isf educational games 2014
 isf european schools games 1992
-isf gymnasiade school summer games 1974 2021 (2022 hold), jinjiang international age
-isf gymnasiade school winter games 2018 2023, tba international age
+isf gymnasiade school summer games (2022 hold), jinjiang international age
+isf gymnasiade school winter games, tba international age
 isf pan american schools games 2013
-isf universal teacher games 2022 2022, poreč international school
-isf world cool games 2019 2022, kyiv international school
-isf world school beach games 2022 2022, tba international school
+isf universal teacher games, poreč international school
+isf world cool games, kyiv international school
+isf world school beach games, tba international school
 isf world school combat games
-isf world school games u15 2021 2023,tba international age
-isf world school e-sports games 2019 2022, kyiv international age e-sport
+isf world school games u15,tba international age
+isf world school e-sports games, kyiv international age e-sport
 isf world school inclusive games, disabled
-inter-high school championships of japan 1963 2023, hokkaido national age
+inter-high school championships of japan, hokkaido national age
 international university beach games
 international asa games
 international asa winter games
-international festival of martial arts pearl of kyrgyzstan 2017 2023
-international issyk-kul sports games 2001 2023
+international festival of martial arts pearl of kyrgyzstan
+international issyk-kul sports games
 international law enforcement games 1974
 international workers' olympiads of summer 1921
 international workers' olympiads of winter 1925
-international youth games 2014 2022, almere international age host by 4 city: aalborg, almere, rendsburg and lancaster.
+international youth games, almere international age host by 4 city: aalborg, almere, rendsburg and lancaster.
 islamic games 1980
 islamic solidarity games 2005, yaoundé regional involves member-states of the organisation of the islamic conference.
-island games 1985 2023, guernsey regional
-iwas world games 1948 2022
+island games, guernsey regional
+iwas world games
 iwas world winter games
-iwas youth world games 2005 2016, age defunct
+iwas youth world games, age defunct
 isaf world sailing games 1994
 jcc maccabi youth games 1982, fort lauderdale; israel, jerusalem national age,religion
-jeux de la francophonie 1989 2023, kinshasa international colonial ties, language
-jeux des îles 1997 2020 (2022 hold), calvià regional population size
+jeux de la francophonie, kinshasa international colonial ties, language
+jeux des îles (2022 hold), calvià regional population size
 jeux mondiaux de la paix 1983
-jogos sul-americanos escolares 1976 2023.
+jogos sul-americanos escolares.
 jubilee games 2008
 juegos deportivos de universidades centro america.
 juegos deportivos escolares nacionales de peru 1993
 juegos universitarios argentinos 2014
 juegos universitarios nacionales de nicaragua 2014
-juegos evita 1948 2022, buenos aires, neuquén, san luis national argentina national games.
-junior pan american games 2021 2025, tba regional age
+juegos evita, buenos aires, neuquén, san luis national argentina national games.
+junior pan american games, tba regional age
 khelo india para games, tba national disabled
-khelo india school games 2018 2018
-khelo india university games 2020 2022, karnataka, jain university national age
-khelo india winter games 2020 2022, gulmarg national
-khelo india youth games 2020 2023, karnataka national age
-kingdom games 1995 2009,netherlands antilles country, because these organization has been dissolved, so this games will not been continued.
-korean national youth sports festival 1972 2023, ulsan national
-korean national para games 1981 2023, south jeolla province national
-korean national sports festival 1934 2023, south jeolla province national
-korean national winter para games 2004 2023, seoul, gangwon, daegu–gyeongbuk national
-korean national winter sports festival 1934 2023, seoul, gangwon, daegu–gyeongbuk national
-korean national youth para games 2008 2023, ulsan national disabled, age
+khelo india school games
+khelo india university games, karnataka, jain university national age
+khelo india winter games, gulmarg national
+khelo india youth games, karnataka national age
+kingdom games,netherlands antilles country, because these organization has been dissolved, so this games will not been continued.
+korean national youth sports festival, ulsan national
+korean national para games, south jeolla province national
+korean national sports festival, south jeolla province national
+korean national winter para games, seoul, gangwon, daegu–gyeongbuk national
+korean national winter sports festival, seoul, gangwon, daegu–gyeongbuk national
+korean national youth para games, ulsan national disabled, age
 las justas
-lakota nation invitational 1976 2022
+lakota nation invitational
 latin american games 1922
 latin american transplant games 1998
-liberty bell classic 1980 1980 - international
-lithuanian national olympics 1938 1938, but 2nd games did not held until 1998.
+liberty bell classic - international
+lithuanian national olympics, but 2nd games did not held until 1998.
 lusophony games, language
 luso-brazilian sports games 1960
-macau games 2014 2022
-maccabiah games 1932 2025, jerusalem international
+macau games
+maccabiah games, jerusalem international
 maccabiah winter games 1933
 maccabi youth games,religion
-manea games 2008 2023
-masters indigenous games 2023 2023, ottawa international
-mediterranean games 1951 2026, taranto regional
-mediterranean beach games 2015 2023, heraklion regional
-med senior games 2022 2022, liguria international age
-micronesian games 1969 2023,tba regional
+manea games
+masters indigenous games, ottawa international
+mediterranean games, taranto regional
+mediterranean beach games, heraklion regional
+med senior games, liguria international age
+micronesian games,tba regional
 middle east/mediterranean scholar-athlete games 2000
 cism world solidarity games 2023, tba international occupation military personnel
-military winter world games 2010 2025, bern international occupation military personnel
-military world games 1995 2027, bogota international occupation military personnel
+military winter world games, bern international occupation military personnel
+military world games, bogota international occupation military personnel
 military world cadet games 2010
-mind sports olympiad 1997 2022, london international reduced in size after 2000.
-move united junior nationals 1984 2023, birmingham, hoover national disabled,age
-mtc youth games 2018 2021 (2022 hold), tba national age national youth games of namibia
+mind sports olympiad, london international reduced in size after 2000.
+move united junior nationals, birmingham, hoover national disabled,age
+mtc youth games (2022 hold), tba national age national youth games of namibia
 naadam.
 national biennual games of singapore
 national community games of singapore
 national games of the people's republic
-of china 1910 2025, guangdong.hong kong.macau national
-national para games of china 1984 2025, guangdong.hong kong.macau national disability
-national winter games of china 1959 2027, tba national
+of china, guangdong.hong kong.macau national
+national para games of china, guangdong.hong kong.macau national disability
+national winter games of china, tba national
 national games of chile
-national games of colombia 1928 2023, quindio.etc national
-paranational games of colombia 2004 2023, caldas.etc national disabled
-national sports games of sea and beach of colombia 2013 2023
-national games of costa rica 1976 2024, guanacaste province national
+national games of colombia, quindio.etc national
+paranational games of colombia, caldas.etc national disabled
+national sports games of sea and beach of colombia
+national games of costa rica, guanacaste province national
 paranational games of costa rica 2009
-national games of india 1924 2023, goa national
+national games of india, goa national
 national winter games of india 2007
 national games of nepal
 national games of pakistan 1948
-national games of taiwan 1946 2023, tainan city national
+national games of taiwan, tainan city national
 national games of uruguay
 national games of venezuela
 national para games of venezuela
 national deaf games of singapore
-national disabled games of taiwan 1993 2024, nantou county national disablility
-national youth games of nigeria 2016 2022, kwara, ilorin national age national youth games in nigeria.
-national high school games 2001 2023, hsinchu county national
-national indigenous games of taiwan 1999 2023, taipei national ethnicity
-national intellectual games 2009 2023, hefei national china mind sports games.
-national intercity games of the people's republic of china 1988 2015
-national intercollegiate athletic games 1970 2023, taoyuan city, chung yuan christian university national age
+national disabled games of taiwan, nantou county national disablility
+national youth games of nigeria, kwara, ilorin national age national youth games in nigeria.
+national high school games, hsinchu county national
+national indigenous games of taiwan, taipei national ethnicity
+national intellectual games, hefei national china mind sports games.
+national intercity games of the people's republic of china
+national intercollegiate athletic games, taoyuan city, chung yuan christian university national age
 national intercollegiate deaf athletic games 2000
 national children and youth olympiad of mexico 1996
-national paralympic week 1957 2024, tba national
-national peasants' games 1988 2016, 2012 is last edition.
+national paralympic week, tba national
+national peasants' games, 2012 is last edition.
 national red games 2010
 national school games of singapore
-national sports festival of japan 1946 2023, kagoshima prefecture national
-national sports week 1948 2024, aceh–north sumatra, tba national
-national sports winter festival of japan 2005 2023, aomori prefecture national
-national sports tournament for the disabled of japan 2001 2023, kagoshima prefecture national disabled
+national sports festival of japan, kagoshima prefecture national
+national sports week, aceh–north sumatra, tba national
+national sports winter festival of japan, aomori prefecture national
+national sports tournament for the disabled of japan, kagoshima prefecture national disabled
 national high school student sports games of the people's republic of china 1973
 national university student sports games of the people's republic of china 1982
 national universiade
 national student sports games of the people's republic of china 2014 's republic of china
 national student (youth) sports games of the people's republic of china 2023, guangxi national age merge with national student sports games of the people's republic of china and china national youth games.
-national traditional games of ethnic minorities of the people's republic of china 1953 2023, hainan, haikou national
+national traditional games of ethnic minorities of the people's republic of china, hainan, haikou national
 national youth olympics of cross country races of polish 1997
-national youth olympics of indoor sports of polish 1995 2023, western pomerania national
+national youth olympics of indoor sports of polish, western pomerania national
 national youth olympics of mental sports of polish 2012
-national youth olympics of summer sports of polish 1995 2023, silesia national
-national youth olympics of winter sports of polish 1996 2023, podkarpackie province national
+national youth olympics of summer sports of polish, silesia national
+national youth olympics of winter sports of polish, podkarpackie province national
 nauru national games 2009
 new zealand deaf games
 new zealand games 1975
-new zealand masters games 1989 2023, whanganui national age
+new zealand masters games, whanganui national age
 new zealand university games 1902
-new zealand winter games 2009 2024, and restrict winter events.
-nigerian national sports festival 1973 2022, asaba national
-nigerian university games 1966 2024, university of jos national school
-nitro world games 2016 2021 (2022 hold), brisbane international
-hot wheels nitro junior games 2019 2021, chino international age
+new zealand winter games, and restrict winter events.
+nigerian national sports festival, asaba national
+nigerian university games, university of jos national school
+nitro world games (2022 hold), brisbane international
+hot wheels nitro junior games, chino international age
 nordic games 1901
-north american indigenous games 1990 2023, halifax, nova scotia regional
-north american outgames 2007 2016 - regional sexual orientation
-north queensland games 1986 2024, cairns national intra-national games
-summer olympic games 1896 2024, paris international
-winter olympic games 1924 2026, milan, cortina d'ampezzo international
+north american indigenous games, halifax, nova scotia regional
+north american outgames - regional sexual orientation
+north queensland games, cairns national intra-national games
+summer olympic games, paris international
+winter olympic games, milan, cortina d'ampezzo international
 olympic virtual sports festival 2023, singapore international occupation military personnel
-pacific games 1963 2023, honiara regional
-pacific mini games 1981 2025, koror regional
+pacific games, honiara regional
+pacific mini games, koror regional
 pacific ocean games 1995 -sport event is between countries of the pacific rim,but only take place a edition.
 pacific school games
-palarong pambansa 1948 2022, metro manila, marikina national age sport events held annually for the elementary and high school students in the philippines
-pan american games 1951 2023, santiago regional
+palarong pambansa, metro manila, marikina national age sport events held annually for the elementary and high school students in the philippines
+pan american games, santiago regional
 pan american deaf youth games 2000
-winter pan american games 1990 1990
+winter pan american games
 pan american games for patients with asthma 2000
 pan american games for the blind 1997
 pan american games for the deaf 1975
-pan american maccabi games 1967 2023, buenos aires regional religion
+pan american maccabi games, buenos aires regional religion
 pan american martial arts games
-pan american masters games 2016 2024, cleveland international age
-pan american sports festival 2014 2014
+pan american masters games, cleveland international age
+pan american sports festival
 pan american wheelchair games 1967
-pan arab games 1953 2023, baghdad regional
+pan arab games, baghdad regional
 pan arab games for the handicapped 1999.
-pan-armenian summer games 1999 2023, gyumri international
+pan-armenian summer games, gyumri international
 pan-armenian winter games 2014
-pan pacific masters games 1998 2022, queensland regional age
-paralympic games 1960 2024, paris international disabled
-paralympic winter games 1976 2026, milan, cortina d'ampezzo international disabled
-parapan american games 1999 2023, santiago regional disabled
-youth parapan american games 2005 2023, bogota regional disabled, age
-pcu games 1999 2023, antwerp international age formerly known as world interuniversity games.
-people's olympiad 1936 1936 - international political ideology protest against the 1936 summer olympics held in berlin under nazi rule.
+pan pacific masters games, queensland regional age
+paralympic games, paris international disabled
+paralympic winter games, milan, cortina d'ampezzo international disabled
+parapan american games, santiago regional disabled
+youth parapan american games, bogota regional disabled, age
+pcu games, antwerp international age formerly known as world interuniversity games.
+people's olympiad - international political ideology protest against the 1936 summer olympics held in berlin under nazi rule.
 philippine national games
 philippine university games
 punjab games 2004
@@ -1114,68 +1060,68 @@ qeltic games 2023, perth national sexual orientation
 red sport international of summer 1921
 red sport international of winter 1928
 respublika universiade
-reykjavik international games 2008 2023, reykjavik international
+reykjavik international games, reykjavik international
 sarpcco games 1997
-saudi games 2022 2022, riyadh national due to covid-19 pandemic postponed to 2022.
+saudi games, riyadh national due to covid-19 pandemic postponed to 2022.
 saussa games 1999
-sell student games 1923 2023, tartu international age
-sell student winter games 1929 1940
-senior olympics 1987 2023, pittsburgh international age
-senior winter olympics 2000 2011.
-seven universities athletic meet 1962 2023, university of tokyo national age
+sell student games, tartu international age
+sell student winter games
+senior olympics, pittsburgh international age
+senior winter olympics.
+seven universities athletic meet, university of tokyo national age
 sky games 2000.
-south american games 1978 2026, rosario, santa fe regional
-south american beach games 2009 2023, santa marta regional
+south american games, rosario, santa fe regional
+south american beach games, santa marta regional
 south american deaf games 2014
 south american masters games 2021 tba tba regional age
 south american para games
-south american university games 2004 2019.
-south american youth games 2013 2025
-south asian games 1984 2023, lahore regional
+south american university games.
+south american youth games
+south asian games, lahore regional
 south asian beach games 2011
 south asian winter games 2011
-south australian masters games 1996 2023, copper coast national
-south pacific games 1963 2007
+south australian masters games, copper coast national
+south pacific games
 south pacific masters games 2000
-southeast asian games 1959 2023, phnom penh regional
+southeast asian games, phnom penh regional
 summer spartakiad 1928.
 winter spartakiad 1928.
-summer spartakiad of the peoples of the ussr 1956 1991.
-winter spartakiad of the peoples of the ussr 1962 1990.
-special olympics national summer games in new zealand 1985 2022, hamilton regional disabled
-special olympics national winter games in new zealand 2005 2023, tba regional disabled
-special olympics usa 2006 2026, minnesota regional disabled
-special olympics summer world games 1968 2023, berlin international disabled
-special olympics winter world games 1977 2025, turin international disabled
+summer spartakiad of the peoples of the ussr.
+winter spartakiad of the peoples of the ussr.
+special olympics national summer games in new zealand, hamilton regional disabled
+special olympics national winter games in new zealand, tba regional disabled
+special olympics usa, minnesota regional disabled
+special olympics summer world games, berlin international disabled
+special olympics winter world games, turin international disabled
 asia pacific summer special olympic games 2013, utsunomiya international disabled
 european summer special olympic games 1981, nyon, lausanne international disabled
-special olympics pan african games 2020 2024, tba regional disabled
+special olympics pan african games, tba regional disabled
 sportaccord world mind games 2011
 somaliland regional games
 south african games 1964
 shanghai international games 1926
 singapore university games
 sri lanka university games 1980
-state games of america (national congress of state games component games listed below) 1999 2024, san diego national
+state games of america (national congress of state games component games listed below), san diego national
 starty nadezhd 1975
-sukma games 1986 2024, johor national
-para sukma games 1982 2024, johor national
+sukma games, johor national
+para sukma games, johor national
 swedish games 1916
-tafisa world martial arts festival 2019 2023
-tafisa world sport for all games 1992 2024, nizhny novgorod regional focus on traditional sports and games(tsg).
-tafisa european sport for all games 2018 2022, perugia regional
-tailteann games 1924 1932
-thailand national games 1967 2023, kanchanaburi national
-thailand national youth games 1985 2023, nakhon sawan national age
-thailand sports university games 1995 2023, ubon ratchathani university national school
-the norway championships week of summer (nm week) 2018 2022, bergen, moss national
-the norway championships week of winter (nm week) 2020 2022, skien national
-asia pride games (the straits games) 2002 2023, phnom penh regional sexual orientation the name “ asia gay sports” was first coined in 2014.
-the finnish championships week (sm-viikko) 2016 2023, lahti national
-the swedish championships week of summer (sm week) 2009 2023, umeå national
-the swedish championships week of winter (sm week) 2009 2023, skövde national
+tafisa world martial arts festival
+tafisa world sport for all games, nizhny novgorod regional focus on traditional sports and games(tsg).
+tafisa european sport for all games, perugia regional
+tailteann games
+thailand national games, kanchanaburi national
+thailand national youth games, nakhon sawan national age
+thailand sports university games, ubon ratchathani university national school
+the norway championships week of summer (nm week), bergen, moss national
+the norway championships week of winter (nm week), skien national
+asia pride games (the straits games), phnom penh regional sexual orientation the name “ asia gay sports” was first coined in 2014.
+the finnish championships week (sm-viikko), lahti national
+the swedish championships week of summer (sm week), umeå national
+the swedish championships week of winter (sm week), skövde national
 the world children's winners games
-transplant games of america 2018 2022, san diego regional
+transplant games of america, san diego regional
 tras-andean games (trasandina youth sports games), bolivia, chile and peru since 1998
 trinidad and tobago beach games
 trisome games
@@ -1185,66 +1131,66 @@ turkic international youth festivals
 turkic universiade
 tuvalu games 2008
 u.s. olympic festival 1978
-uk school games 2006 2022
-unisport nationals 1992 2023, gold coast national age australia university games.
-united world games 2005 2022.u12.u14.u16.u18 level.
-usa masters games 2016 2022, lauderdale national age
+uk school games
+unisport nationals, gold coast national age australia university games.
+united world games.u12.u14.u16.u18 level.
+usa masters games, lauderdale national age
 usip world police games
-vietnam national games 1985 2022, quang ninh province national
+vietnam national games, quang ninh province national
 virtus americas regional games 2022 tba brazil, sao paulo regional disabled intellectual disability (inas)
-virtus european games 2018 2024
-virtus global games 2004 2023, vichy international disabled formerly known as inas global games.
+virtus european games
+virtus global games, vichy international disabled formerly known as inas global games.
 for athletes with intellectual disability, autism or down syndrome.
 virtus oceania asia games 2022, brisbane regional disabled for athletes with intellectual disability, autism or down syndrome.
-west asian games 1997 2005
-west asian para games 2017 2024, sharjah regional disabled
+west asian games
+west asian para games, sharjah regional disabled
 west african games 1977
 west african university games
-western canada summer games 1975 2023, manitoba national
+western canada summer games, manitoba national
 western asiatic games 1934
-women's islamic games 1993 2005
+women's islamic games
 women's olympiad 1921
-women's world games 1922 1934
+women's world games
 world abilitysport games 2023, nakhon ratchasima international disabled
-world air games 1997 2025
+world air games
 world artistic games[citation needed] international
-world beach games 2019 2023, bali international
-world bridge games 2008 2020 (2022 hold), salsomaggiore terme international
-world combat games 2010 2023, riyadh international
-world company sports games 2016 2023, león, guanajuato international
-world cyber games 2000 2022
+world beach games, bali international
+world bridge games (2022 hold), salsomaggiore terme international
+world combat games, riyadh international
+world company sports games, león, guanajuato international
+world cyber games
 world dancesport games 2013
 world deaf youth games
-world dwarf games 1993 2023, cologne international disabled
-world equestrian games 1990 2026.
-world eskimo indian olympics 1961 2023, alaska, fairbanks international ethnicity
+world dwarf games, cologne international disabled
+world equestrian games.
+world eskimo indian olympics, alaska, fairbanks international ethnicity
 world e-sports games 2004
 world ex-servicemen's wheelchair games 1993
-world firefighters games 1990 2024, aalborg international occupation
-world festival of youth and students 1947 2017
-world games 1981 2025, chengdu international
-world indigenous games 2015 2017
-world lithuanians games 1978 1991, usually held in lithuania (athletes from lithuania itself debuted only in 3rd games in 1988).
-world martial arts games 2007 2023, tba international
-world masters games 1985 2025, taipei city, new taipei city international age
-winter world masters games 2010 2024, lombardy international age
-world medical and health games 1978 2023, madeira international occupation for health professional
+world firefighters games, aalborg international occupation
+world festival of youth and students
+world games, chengdu international
+world indigenous games
+world lithuanians games, usually held in lithuania (athletes from lithuania itself debuted only in 3rd games in 1988).
+world martial arts games, tba international
+world masters games, taipei city, new taipei city international age
+winter world masters games, lombardy international age
+world medical and health games, madeira international occupation for health professional
 world mind sports games 2008
 world nature games 1997
-world nomad games 2014 2024, astana international
-world outgames 2006 2017
-world police and fire games 1985 2023, winnipeg international occupation
-world polonia games of summer 1934 2023
-world polonia games of winter 2010 2022, wisła national
-world roller games 2017 2022, buenos aires international
+world nomad games, astana international
+world outgames
+world police and fire games, winnipeg international occupation
+world polonia games of summer
+world polonia games of winter, wisła national
+world roller games, buenos aires international
 world scholar-athlete games 1993
-world surfing games 1996 2023, surf city international
-world transplant summer games 1978 2023, perth international
-world transplant winter games 1994 2022, bormio international
-world urban games 2019 2023
+world surfing games, surf city international
+world transplant summer games, perth international
+world transplant winter games, bormio international
+world urban games
 world youth games 1998
-x games 1995 2022, south california international
-winter x games 1997 2023, aspen international
+x games, south california international
+winter x games, aspen international
 summer x games asia 1998, chiba city regional
 winter x games asia
 summer x games europe 2013
@@ -1252,9 +1198,9 @@ winter x games europe 2010
 x games latin america 2007
 x games oceania 2018
 youth centennial games 1996
-summer youth olympic games 2010 2026, dakar international age
-winter youth olympic games 2012 2024, gangwon international age
-youth world games 2023 2023, algarve international age
+summer youth olympic games, dakar international age
+winter youth olympic games, gangwon international age
+youth world games, algarve international age
 zimbabwe national youth games 2003
 zimbabwe national youth and paralympic games 2008, disability
 legend
@@ -1519,8 +1465,7 @@ olympicparkbombing shrapnelmark.jpg
 bomb fragment mark on olympic park sculpture
 location atlanta, georgia, united states
 coordinates 33°45′38″n 84°23′33″w
-date july 27, 1996
-1:20 am (utc-4)
+date july 27,:20 am (utc-4)
 target centennial olympic park
 attack type bombing
 weapons pipe bomb
@@ -1620,18 +1565,18 @@ summer olympics appearances (overview)
 israel competed at the 1972 summer olympics in munich, west germany, which began on august 26. on septembe, in the munich massacre, 11 members of the israeli delegation—5 athletes, 2 referees, and 4 coaches (names bolded on this page)—were taken hostage by palestine liberation organization terrorists and murdered. the remainder of the team left munich on september 7.
 shaul ladany, a holocaust survivor, competed in the 50-kilometer walk. he had been imprisoned in bergen-belsen concentration camp as a child, and wore a star of david on his warm-up jersey. when he was congratulated by locals on his fluent german, he responded: "i learned it in bergen-belsen". he survived the munich massacre by jumping off a balcony.
 name sport event placing performance
-shaul ladani athletics men's 50 km walk 19 4:24:38.6
+shaul ladani athletics men's 50 km walk:24:38.6
 (also entered for 20 km walk, but did not start)
 esther shahamorov athletics women's 100 m semifinal (5th) 11.49
 women's 100 m hurdles semifinal did not start (left munich before the semifinal)
 dan alon fencing men's foil second round w5–l5 (1r 3-2, 2r 2-3)
 yehuda weissenstein fencing men's foil second round w2–l8 (1r 2-3, 2r 0-5)
-yair michaeli sailing flying dutchman 23 28-22-22-19-25-19-dns = 171 pts
+yair michaeli sailing flying dutchman-22-22-19-25-19-dns = 171 pts
 (left kiel before 7th race)
 itzhak nir
-henry hershkowitz shooting 50 metre rifle prone 23 593/600
-50 metre rifle three positions 46 1114/1200
-zelig shtroch shooting 50 metre rifle prone 57 589/600
+henry hershkowitz shooting 50 metre rifle prone/600
+50 metre rifle three positions/1200
+zelig shtroch shooting 50 metre rifle prone/600
 shlomit nir swimming women's 100 m breaststroke heats (8th) 1:20.90
 women's 200 m breaststroke heats (6th) 2:53.60
 david berger weightlifting light-heavyweight &lt;82.5 kg — j:132.5 c:122.5 s:— t:—
@@ -1843,7 +1788,7 @@ fédération internationale du sport universitaire fisu •
 95 weightlifting weightlifting pictogram.svg international weightlifting federation iwf 1905 •
 96 wrestling wrestling pictogram.svgwrestling freestyle pictogram.svg glima wrestling pictogram.svg beach wrestling pictogram.svg pahlavani wrestling pictogram.svg belt wrestling pictogram.svg united world wrestling uww 1912 •
 97 wushu wushu pictogram.svg international wushu federation iwuf •
-28+4 7 42 20
+28+4
 association of paralympic sports organisations (apso)
 commonwealth games: commonwealth games federation (cgf)
 masters games: international masters games association (imga)
