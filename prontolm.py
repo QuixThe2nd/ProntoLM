@@ -42,6 +42,7 @@ while True:
         completion = complete(prompt)
         if completion is None:
             completion = ' '
+
         print(completion[:1], end='')
         final_completion = final_completion + completion[:1]
         recursive_complete(completion[1:])
