@@ -61,6 +61,10 @@ Another planned improvement is the implementation of parallel generation in Pron
 
 The AI can currently only handle alphanumeric characters, this is a severe limitation as it is unable to define sentence starts/endings or add proper punctation. ProntoLM is also unable to share website URLs even if they are explicitly defined in the dataset.
 
+### Completion Completion (Get it?)
+
+ProntoLM is currently unable to finish completion at will, or even know when to stop. At the moment ProntoLM is hardcoded to stop after X characters. This needs to be changed.
+
 ## Creating a Dataset
 
 You can create a dataset by simply copying text from website's such as wikipedia. The smaller the dataset is, the more likely it is that ProntoLM will hallucinate completions.
