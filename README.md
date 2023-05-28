@@ -1,6 +1,6 @@
 # ProntoLM
 
-**Pro**babilistic **N**on-**To**kenised Language Model
+**Pro**babilistic **N**on-**To**kenised **L**anguage **M**odel
 
 ## What is ProntoLM?
 
