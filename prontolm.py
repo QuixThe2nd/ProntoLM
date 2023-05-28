@@ -1,11 +1,15 @@
 import re
 import collections
 import sys
-sys.setrecursionlimit(10000)
+import time
 
 
 text = """"""
 
+sexy_mode = False if input('Fast mode (F) or Sexy mode (S)? ').lower() == 'f' else True
+
+
+sys.setrecursionlimit(10000)
 alnum = re.compile('[^a-zA-Z0-9 ]')
 
 dataset = text.lower()
@@ -37,15 +41,16 @@ while True:
         global i
         global final_completion
         i += 1
-        if i == 1000:
+        if i == 50:
             return
         completion = complete(prompt)
         if completion is None:
             completion = ' '
-
         print(completion[:1], end='')
+        if sexy_mode:
+            time.sleep(0.01)
         final_completion = final_completion + completion[:1]
         recursive_complete(completion[1:])
 
     recursive_complete(prompt)
-    print('\n'
+    print('\n')
