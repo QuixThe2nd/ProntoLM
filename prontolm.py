@@ -4,6 +4,7 @@ import sys
 
 COMPLETION_LIMIT = 20
 VARIATIONS = 5
+VERBOSE = True
 DATASET = 'olympics_finetuned_2'
 
 text = """"""
@@ -33,6 +34,8 @@ def complete(prompt):
     return [x[0] for x in possibilities[:VARIATIONS]]
 
 def recursive_complete(prompt, depth=1, max_completions=VARIATIONS):
+    if VERBOSE:
+        print(prompt)
     # Stop if depth exceeds the COMPLETION_LIMIT.
     if depth > COMPLETION_LIMIT:
         return [prompt]
