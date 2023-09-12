@@ -4,8 +4,11 @@ import sys
 
 COMPLETION_LIMIT = 20
 VARIATIONS = 5
+DATASET = 'olympics_finetuned_2'
 
 text = """"""
+with open('datasets/' + DATASET + '.txt', 'r') as f:
+    dataset = f.read()
 
 def complete(prompt):
     prompt_length = len(prompt)
