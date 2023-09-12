@@ -64,17 +64,14 @@ while True:
 
     print("Completions:")
     for index, completion in enumerate(completions[:VARIATIONS]):
-        label = chr(97 + index) # Convert index to alphabet
-        print(f"{label}. {completion}")
+        print(f"{index+1}. {completion}")
 
-    valid_choices = [chr(97 + i) for i in range(VARIATIONS)]
-    vote = input(f"Which completion do you prefer? ({'/'.join(valid_choices)}): ").strip().lower()
+    valid_choices = [str(i+1) for i in range(VARIATIONS)]
+    vote = input(f"Which completion do you prefer? ({'/'.join(valid_choices)}): ").strip()
     while vote not in valid_choices:
         print(f"Invalid choice. Please select one of {', '.join(valid_choices)}.")
-        vote = input(f"Which completion do you prefer? ({'/'.join(valid_choices)}): ").strip().lower()
+        vote = input(f"Which completion do you prefer? ({'/'.join(valid_choices)}): ").strip()
 
-    chosen_text = completions[ord(vote) - 97]  # Convert vote back to index
-    dataset += chosen_text
+    dataset += completions[int(vote)-1]
 
-    print(len(dataset))
     print('\nFeedback saved\n')
