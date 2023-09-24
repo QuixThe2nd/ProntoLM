@@ -2,6 +2,8 @@
 
 **Pro**babilistic **N**on-**To**kenised **L**anguage **M**odel
 
+ProntoLM is a novel approach to machine learning & language models. The goal when creating this was to create something that is machine learning by definition, using the simplest approach possible. I very much doubt this project will ever have a real use case. I created this because I love experimenting with novel ideas. I don't plan on maintaining this project, though I probably will randomly commit improvements when I have bursts of dopamine/motivation to work on it. For those who love tinkering with projects like this, I encourage you to fork this project. I'd love to see how you can improve it. Feel free to send in a PR if you've improved on this project, if it's good, I'll accept it.
+
 ## What is ProntoLM?
 
 ProntoLM is a probabilistic, non-tokenised language model that generates completions based on a provided text dataset. It utilizes a simple pattern matching and counting approach to generate the completions, which allows it to run perfectly well without a GPU/CPU with a single thread. The language model does not use weights or a neural network to remain lightweight and easy to modify/improve.
@@ -17,13 +19,13 @@ ProntoLM aims to provide a basic language model implementation that can generate
 ProntoLM provides a straightforward implementation of a non-tokenised language model, making it easy to understand and modify for specific use cases.
 
 ### Efficiency
-With its simplified approach, ProntoLM can generate completions **quickly**, making it suitable for lightweight language generation tasks. Due to it's simplicity, ProntoLM can sustainably generate completions faster than ChatGPT while running on a Raspberry Pi.
+With its simplified approach, ProntoLM can generate completions **quickly**, making it suitable for lightweight language generation tasks. Due to its simplicity, ProntoLM can sustainably generate completions faster than ChatGPT while running on a Raspberry Pi.
 
 ### Flexibility
 ProntoLM allows you to use your own text dataset, enabling customization and adaptation to specific domains or contexts.
 
 ### Training
-Despite it's simplicity, ProntoLM can be trained. When generating completions, ProntoLM forks into different chains and outputs the x most probable responses. You are able to provide feedback (only stored in memory right now) to train it to provide more accurate answers.
+Despite its simplicity, ProntoLM can be trained. When generating completions, ProntoLM forks into different chains and outputs the x most probable responses. You are able to provide feedback (only stored in memory right now) to train it to provide more accurate answers.
 
 ## Limitations
 
