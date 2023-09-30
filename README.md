@@ -66,7 +66,7 @@ To enhance the contextual understanding of generated completions, ProntoLM could
 
 ### ~Parallel Generation~ ADDED
 
-Another planned improvement is the implementation of parallel generation in ProntoLM. Parallel generation involves generating multiple completions simultaneously, providing users with a range of options or alternative suggestions. By adopting parallel generation, ProntoLM can offer more diverse and varied completions, catering to different user preferences and needs. Feedback provided by the user on which completion is better will be used to improve the dataset.
+~Another planned improvement is the implementation of parallel generation in ProntoLM. Parallel generation involves generating multiple completions simultaneously, providing users with a range of options or alternative suggestions. By adopting parallel generation, ProntoLM can offer more diverse and varied completions, catering to different user preferences and needs. Feedback provided by the user on which completion is better will be used to improve the dataset.~
 
 ### Punctuation/Special Characters
 
