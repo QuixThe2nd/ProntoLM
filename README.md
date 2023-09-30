@@ -10,7 +10,7 @@ P.S. If you're looking for ideas on how to improve Pronto, keep reading. I've li
 
 ## What is ProntoLM?
 
-ProntoLM is a probabilistic, non-tokenised language model that generates completions based on a provided text dataset. It utilizes a simple pattern matching and counting approach to generate the completions, which allows it to run perfectly well without a GPU/CPU with a single thread. The language model does not use weights or a neural network to remain lightweight and easy to modify/improve.
+ProntoLM is a probabilistic, non-tokenised language model that generates completions based on a provided text dataset. It utilizes a simple pattern matching and counting approach to generate the completions, which allows it to run perfectly well without a GPU, using a single thread. The language model does not use weights or a neural network to remain lightweight and easy to modify/improve.
 
 ## What is the Purpose of ProntoLM?
 
