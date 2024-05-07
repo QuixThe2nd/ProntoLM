@@ -6,7 +6,7 @@ ProntoLM is a novel approach to machine learning & language models. The goal whe
 
 I very much doubt this project will ever have a real use case. I created this because I love experimenting with novel ideas. I don't plan on maintaining this project, though I probably will randomly commit improvements when I have bursts of dopamine/motivation to work on it. For those who love tinkering with projects like this, I encourage you to fork this project. I'd love to see how you can improve it. Feel free to send a PR if you've improved on this project. If it's good, I'll accept it.
 
-P.S. If you're looking for ideas on how to improve Pronto, keep reading. I've listed many of the floors/limitations of Pronto.
+P.S. If you're looking for ideas on how to improve Pronto, keep reading. I've listed many of the flaws/limitations of Pronto.
 
 ## What is ProntoLM?
 
